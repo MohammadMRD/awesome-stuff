@@ -2,7 +2,7 @@
 
 ## Dynamic programming
 - [x] Fibonacci
-- [ ] Grid traveler
+- [x] Grid traveler
 - [ ] Can sum?!
 - [ ] How sum?!
 - [ ] Best sum?!
