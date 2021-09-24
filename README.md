@@ -1,7 +1,7 @@
 # Awesome Stuff
 
 ## Dynamic programming
-- [ ] Fibonacci
+- [x] Fibonacci
 - [ ] Grid traveler
 - [ ] Can sum?!
 - [ ] How sum?!
