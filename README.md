@@ -12,3 +12,4 @@
 ## Algorithm
 - [ ] Minimax
 - [ ] A*
+- [ ] KMP
